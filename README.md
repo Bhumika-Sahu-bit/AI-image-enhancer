@@ -43,17 +43,13 @@ Deployment: Vercel
 
 📸 Screenshots
 
-(Highly recommended – adds 10x value)
-
-/screenshots
-   upload-ui.png
-   result-ui.png
-   download.png
 Upload Interface
+<img width="1769" height="878" alt="Screenshot 2026-03-22 170034" src="https://github.com/user-attachments/assets/af2c7ccd-6e4f-4b07-aca8-774465001b19" />
+
 
 Enhanced Result
+<img width="1615" height="869" alt="Screenshot 2026-03-22 170221" src="https://github.com/user-attachments/assets/22c09a02-0604-4833-9b09-644827668683" />
 
-Download Feature
 
 🚀 Run Locally
 # Clone repository
