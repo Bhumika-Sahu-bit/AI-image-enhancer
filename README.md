@@ -6,7 +6,7 @@ Built with a modern UI and smooth user experience, this tool leverages AI to ups
 
 🌐 Live Demo
 
-👉 https://image-enchancer-rho.vercel.app/
+👉 https://ai-image-enhancer-mocha.vercel.app/
 
 💡 Project Overview
 
